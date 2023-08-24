@@ -51,7 +51,7 @@ body{
     text-align: center;
     font-weight: 400;
 }
-@media screen and (max-width :375px) {
+@media screen and (max-width :600px) {
     .parentbox{
         height: 550px;
     }
