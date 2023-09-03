@@ -12,7 +12,7 @@
 ## Overview
 
 ### Links
- Live Site URL: [https://tanrandel.github.io/QrCode-csshtml/]
+ Live Site URL: [(https://tanrandel.github.io/QrCodeSample-HTML-CSS-/)]
 
 ## My process
 Build first the HTML and get the import link from the google fonts. And style the css to the best I can do.
